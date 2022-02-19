@@ -2,7 +2,7 @@
 In this assignment I have attempted the question 3C of the SAiDL spring assignment. 
 
 ### Choosing the data
-While training the model with the complete dataset Oxford IIIT pet dataset, the RAM usage was being exceeded hence only 3 pet classes namely Abyssinian, American bulldog, American Pitbull Terrier have been used in the training, validation, testing dataset.
+While training the model with the complete Oxford IIIT pet dataset, the RAM usage was being exceeded hence only 3 pet classes namely Abyssinian, American bulldog, American Pitbull Terrier have been used in the training, validation, testing dataset.
 
 ### Description
 
