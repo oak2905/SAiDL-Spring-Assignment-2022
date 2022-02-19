@@ -7,8 +7,8 @@ While training the model with the complete Oxford IIIT pet dataset, the RAM usag
 ### Description
 
 1) Preparing the dataset.
-    a) Training data - Cropped patches of training images.
-    b) Testing and Validation data - Random cropped patches of testing and validation images.
+    * Training data - Cropped patches of training images.
+    * Testing and Validation data - Random cropped patches of testing and validation images.
     
 2) Building the model
     * Used TensorFlow/Keras to build the SRCNN model.
